@@ -1,1 +1,4 @@
 # PA3
+Leah Jones I collaborated with my TA's and websites for help with logic 
+CS480 Programming Assignment 3
+In this project, I created a 3D vivarium simulation using OpenGL and Python, with a fish as the predator and spiders as prey. I successfully modeled the creatures by using the given shapes and attached them as body parts. I have tried to make the fish chase the closest spider, while the spiders attempt to evade when nearby, abut unofruntely complications arose. I enforced boundary constraints to keep creatures within a 3D tank, with reflections on collision. The challenges that happened were the handling of positions effectively due to initial issues with the Point class, as well as implementing precise collision detection and response, which proved challenging with multiple moving objects. 
